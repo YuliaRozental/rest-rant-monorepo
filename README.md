@@ -31,7 +31,7 @@ Finally, in separate terminals, run `npm start` in each folder so that the API a
 | DELETE | /places/:placeId/comments/:commentId | Delete a comment about a particular place |
 
 
-### App (http://localhost:3000)
+### App (http://localhost:3001)
 | Path                  | Component                 | Purpose                                                                         |
 | --------------------- | ------------------------- | ------------------------------------------------------------------------------- |
 | /                     | `Home.js`                 | Home page                                                                       |
